@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/polarising.rest.sample.RESTProcessSample-GetData.json",
+        "type": "generated"
+    }]
+}

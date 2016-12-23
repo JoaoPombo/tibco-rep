@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/SimpleRestApp/Service Descriptors/polarising.rest.sample.RESTProcessSample-GetData.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1482330977367"
+}]}
